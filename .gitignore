@@ -1,5 +1,6 @@
 # SwiftPM 관련
 .swiftpm/
+.swiftpm/*
 .build/
 
 # Xcode 관련
