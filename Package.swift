@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BmfSdk",
-            url: "https://github.com/celine-bmf/bmf-sdk/releases/download/1.0.15/BmfSdk.xcframework.zip",
-            checksum: "b2052ccd1b82b55b42e8557f24c97b556b8e9103968b5fbd63cfe81643c14ef7"
+            url: "https://github.com/celine-bmf/bmf-sdk/releases/download/1.0.16/BmfSdk.xcframework.zip",
+            checksum: "75609444b7c7ed9ab517f338a31cb5f92d63872285dc5643516b8ceb40223445"
         )
     ]
 )
