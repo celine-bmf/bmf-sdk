@@ -2,21 +2,21 @@
 import PackageDescription
 
 let package = Package(
-    name: "bmf-sdk",
+    name: "BmfSdk",
     platforms: [
         .iOS(.v14)
     ],
     products: [
         .library(
-            name: "bmf-sdk",
+            name: "BmfSdk",
             targets: ["bmf-sdk"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "bmf-sdk",
+            name: "BmfSdk",
             url: "https://github.com/celine-bmf/bmf-sdk/releases/download/1.0.3/bmf-sdk.xcframework.zip",
-            checksum: "8470c87d95ca61a41667c25e2e430c9da3e7075ce2454cd698064fa62c2f4707"
+            checksum: "19b1ed63151c1e9b4fc0d72eb714704befddb93af18e0cade96aefdf388159e0"
         )
     ]
 )
