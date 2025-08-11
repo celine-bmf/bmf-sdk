@@ -1,4 +1,0 @@
-framework module bmf_sdk {
-  header "bmf_sdk-Swift.h"
-  requires objc
-}

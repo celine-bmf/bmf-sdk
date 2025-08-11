@@ -1,0 +1,14 @@
+# SwiftPM 관련
+.swiftpm/
+.build/
+
+# Xcode 관련
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
+
+# 기타
+.DS_Store
